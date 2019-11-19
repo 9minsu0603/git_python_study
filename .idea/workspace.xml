@@ -82,6 +82,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.hello_python" />
+        <item itemvalue="Python.hello_python" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574125364011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mul(a, b) 함수 추가, main print문 변경">
+      <created>1574126862908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574126862908</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +145,7 @@
     <MESSAGE value="git 초기화 작" />
     <MESSAGE value="hello_python.py add" />
     <MESSAGE value="hello_python.py append" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello_python.py append" />
+    <MESSAGE value="mul(a, b) 함수 추가, main print문 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="mul(a, b) 함수 추가, main print문 변경" />
   </component>
 </project>
