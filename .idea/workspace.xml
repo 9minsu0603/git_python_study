@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="Revert &quot;git 초기화 작업&quot;&#10;&#10;This reverts commit 4ae3476e8d81d8aff5845241b5a9f445c83c43ce.">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_python_study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_git/hello_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_git/hello_python.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +23,11 @@
       <list>
         <option value="youngnam &lt;9minsu0603@naver.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574124655702</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hello_python.py append">
+      <created>1574125364011</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574125364011</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git 초기화 작" />
     <MESSAGE value="hello_python.py add" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello_python.py add" />
+    <MESSAGE value="hello_python.py append" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello_python.py append" />
   </component>
 </project>
