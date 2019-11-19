@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="mul(a, b) 함수 추가, main print문 변경">
+    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_git/hello_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_git/hello_python.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hotfix" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574126862908</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="첫번째 print문을 format 이용하여 변경">
+      <created>1574130322587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574130322587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +152,7 @@
     <MESSAGE value="hello_python.py add" />
     <MESSAGE value="hello_python.py append" />
     <MESSAGE value="mul(a, b) 함수 추가, main print문 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="mul(a, b) 함수 추가, main print문 변경" />
+    <MESSAGE value="첫번째 print문을 format 이용하여 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="첫번째 print문을 format 이용하여 변경" />
   </component>
 </project>
