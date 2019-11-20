@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="">
+    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="set">
+      <change afterPath="$PROJECT_DIR$/chapter04/dictionary_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter04/set_study.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter04/exam02.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter04/exam02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter04/tuple_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter04/tuple_study.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.set_study">
+  <component name="RunManager" selected="Python.dictionary_study">
+    <configuration name="dictionary_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter04/dictionary_study.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exam02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,10 +171,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dictionary_study" />
         <item itemvalue="Python.set_study" />
         <item itemvalue="Python.tuple_study" />
         <item itemvalue="Python.exam02" />
-        <item itemvalue="Python.hello_python" />
         <item itemvalue="Python.hello_python" />
       </list>
     </recent_temporary>
@@ -218,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574134382183</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가, 로또번호 생성기">
+      <created>1574210967406</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574210967406</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +269,7 @@
     <MESSAGE value="mul(a, b) 함수 추가, main print문 변경" />
     <MESSAGE value="첫번째 print문을 format 이용하여 변경" />
     <MESSAGE value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가" />
+    <MESSAGE value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가, 로또번호 생성기" />
+    <option name="LAST_COMMIT_MESSAGE" value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가, 로또번호 생성기" />
   </component>
 </project>
