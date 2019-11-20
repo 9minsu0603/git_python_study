@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="set">
-      <change afterPath="$PROJECT_DIR$/chapter04/dictionary_study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/set_study.py" afterDir="false" />
+    <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/exam03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/if_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/loop_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/zip_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +67,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dictionary_study">
-    <configuration name="dictionary_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.comprehension">
+    <configuration name="comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter04/dictionary_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/comprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exam02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exam03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter04/exam02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/exam03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="if_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_git" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_git/hello_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/if_study.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="loop_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter04/set_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/loop_study.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zip_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter04/tuple_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/zip_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dictionary_study" />
-        <item itemvalue="Python.set_study" />
-        <item itemvalue="Python.tuple_study" />
-        <item itemvalue="Python.exam02" />
-        <item itemvalue="Python.hello_python" />
+        <item itemvalue="Python.comprehension" />
+        <item itemvalue="Python.exam03" />
+        <item itemvalue="Python.zip_loop" />
+        <item itemvalue="Python.loop_study" />
+        <item itemvalue="Python.if_study" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574210967406</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="dictionary study complete">
+      <created>1574213656926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574213656926</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +281,7 @@
     <MESSAGE value="첫번째 print문을 format 이용하여 변경" />
     <MESSAGE value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가" />
     <MESSAGE value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가, 로또번호 생성기" />
-    <option name="LAST_COMMIT_MESSAGE" value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가, 로또번호 생성기" />
+    <MESSAGE value="dictionary study complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="dictionary study complete" />
   </component>
 </project>
