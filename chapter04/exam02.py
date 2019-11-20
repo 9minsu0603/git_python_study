@@ -5,7 +5,6 @@ def bubble_sort(random_list):
     print(random_list)
     # todo
 
-
 if __name__ == "__main__":
     random_list = []
     rnd.seed(1)

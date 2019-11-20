@@ -11,3 +11,7 @@ t_list = [tuple1, tuple2, tuple3, tuple4]
 print()
 for item in t_list:
     print("{} type : {}".format(item, type(item)))
+
+# tuple1[1] = 5
+# print(len(tuple1))
+print(len(tuple1[1] + tuple1.index(2)))
