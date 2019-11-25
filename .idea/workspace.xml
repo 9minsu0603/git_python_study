@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0639705f-8ade-4d55-b3e3-badd9b309490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter05/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/exam03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/if_study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/loop_study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/zip_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/class_study01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/test_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/json_study01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter05/exam03.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter05/exam03.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ToPTTCdN9Y3HavTXpOR17vJHf4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -67,8 +69,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.comprehension">
-    <configuration name="comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.class_study01">
+    <configuration name="class_study01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter08/class_study01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exam03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_student02 (Working Copy)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/exam03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/json_student02 (Working Copy).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_student_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/if_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/json_student_solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loop_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_study01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/loop_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/json_study01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,34 +154,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zip_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in test_study.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="git_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/zip_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/chapter08/test_study.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.comprehension" />
-        <item itemvalue="Python.exam03" />
-        <item itemvalue="Python.zip_loop" />
-        <item itemvalue="Python.loop_study" />
-        <item itemvalue="Python.if_study" />
+        <item itemvalue="Python.class_study01" />
+        <item itemvalue="Python tests.pytest in test_study.py" />
+        <item itemvalue="Python.json_student_solution" />
+        <item itemvalue="Python.json_student02 (Working Copy)" />
+        <item itemvalue="Python.json_study01" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574213656926</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="if_study ~ exam03">
+      <created>1574221734470</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574221734470</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +285,7 @@
     <MESSAGE value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가" />
     <MESSAGE value="파이썬 수업 56 ~ 57page tuple수업 예제 및 bubble_sort 추가, 로또번호 생성기" />
     <MESSAGE value="dictionary study complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionary study complete" />
+    <MESSAGE value="if_study ~ exam03" />
+    <option name="LAST_COMMIT_MESSAGE" value="if_study ~ exam03" />
   </component>
 </project>
